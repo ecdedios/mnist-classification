@@ -16,8 +16,8 @@ _A study along project for a refresher._
 
 Ednalyn C. De Dios – [@ecdedios](https://twitter.com/ecdedios)
 
-Read about my data science adventures:
-[Data Science Nerd Blog](https://datasciencenerd.us)
+Read about my adventures in data science:
+[Data Science Nerd Blog](http://datasciencenerd.us)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
